@@ -1,7 +1,7 @@
-#.vimrc
+# .vimrc
 
-##Dependencies
+## Dependencies
 
-###pathogen
+### pathogen
 Instructions can be found [here](https://github.com/tpope/vim-pathogen)
 
