@@ -1,6 +1,9 @@
 " Infect vim with Pathogen
 execute pathogen#infect()
 
+" vim-markdown configs
+let g:vim_markdown_folding_disabled = 1
+
 set nocompatible                " sets vim to be incompatible with vi
 set autoread                    " set to auto read when a file is changed from the outside
 set laststatus=2                " always show the status line
